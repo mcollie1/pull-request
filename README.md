@@ -1,7 +1,6 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a sample app to test pull-requests with my mentor.
 
 Things you may want to cover:
 
